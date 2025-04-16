@@ -1,12 +1,12 @@
-# Privacy Policy for Touch Square
+# Privacy Policy for Square Tap
 
-Last updated: February 13, 2024
+Last updated: April 14, 2025
 
 ## Introduction
-Touch Square is a simple arcade game that respects your privacy. This policy explains what information we collect and how we use it.
+Square Tap is a simple arcade game that respects your privacy. This policy explains what information we collect and how we use it.
 
 ## Information We Collect
-Touch Square collects only the following data:
+Square Tap collects only the following data:
 - Game scores (stored locally on your device)
 - High scores (stored locally on your device)
 - Internet connection status (for future features)
