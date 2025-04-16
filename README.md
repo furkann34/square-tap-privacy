@@ -1,6 +1,6 @@
 # Square Tap Privacy Policy
 
-Last updated: April 12, 2024
+Last updated: April 12, 2025
 
 ## Introduction
 Square Tap ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile game Square Tap.
